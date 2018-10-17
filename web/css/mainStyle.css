@@ -1,0 +1,441 @@
+body{
+    /*background-image: url(https://png.pngtree.com/thumb_back/fw800/back_pic/04/48/50/00585a3568a0a7d.jpg);*/
+    background-image: url(https://cjlogistique.ch/wp-content/uploads/2014/10/background.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}
+.header{
+    background-image: url(http://www.ie-wallpapers.com/data/out/259/36233671-yellow-background.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    margin: 0;
+}
+.leftHeader img{
+    border: 2px solid brown;
+    border-radius: 10%;
+    height: 100px;
+    }
+    .leftHeader{
+        padding: 1%;
+    }
+#admin{
+    float: right;
+    clear: both;
+    text-decoration: none;
+    color: red;
+    font-weight: bold;
+
+}
+.rightHeader img{
+    height: 30px;
+    width: 30px;
+    opacity: 0.7;
+    clear: both;
+
+}
+.title h1{
+    padding-top: 5%;
+    font-family: Vivaldi;
+    text-align: center;
+    font-weight: bold;
+    color: brown;
+    font-size:60px;
+    text-shadow:2px -1px 0 white,3px -3px 0 red;
+}
+.intro{
+    margin: 0;
+}
+.intro h1{
+    margin-top: 2%;
+    font-weight: bold;
+    text-align: center;
+    font-family: vivaldi;
+}
+.intro hr{
+    margin: 2% 45% 2% 45%;
+    height: 3px;
+    width: 10%;
+    background-color: brown;
+}
+.intro p{
+    line-height: 2em;
+    text-align: justify;
+}
+.intro #imp{
+    color: brown;
+    font-family: script mt bold;
+    font-size: 35px;
+}
+.facilities{
+    margin: 0;
+}
+.facilities h1{
+    margin-top: 2%;
+    font-weight: bold;
+    text-align: center;
+    font-family: vivaldi;
+}
+.facilities hr{
+    margin: 2% 45% 2% 45%;
+    height: 3px;
+    width: 10%;
+    background-color: brown;   
+}
+.facilities p{
+    line-height: 2em;
+    text-align: justify;
+    padding-bottom: 2%;
+}
+.courses{
+    background-image: url(http://www.vaysinfotech.com/wp-content/uploads/2017/01/background-banner-for-website5.jpg);
+    width: 100%;
+    background-color:  #333333;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    padding-top: 3%;
+    padding-bottom: 3%;
+
+}
+.courses h1{
+    padding-top: 2%;
+    text-align: center;
+    color: white;
+    font-family: vivaldi;
+}
+.courses hr{
+    margin: 2% 45% 2% 45%;
+    height: 3px;
+    width: 10%;
+    background-color: brown;
+}
+.courses .carrierPro{
+    float: left;    
+    width: 30%;
+}
+.courses .shortPro{    
+    width: 30%;
+    float: right;
+    margin-right: 30%;
+}
+.courses .blank{
+    float: right;
+    width: 40%;
+}
+.courses ul{
+    list-style-type: none;
+    margin-left: 3%;
+}
+.courses ul li{
+    color: white;
+    line-height: 40px;
+}
+.courses ul #ctgry hr{
+    margin-left: 3%;
+    width: 30%;
+    margin-right: 10%;
+    background-color: #999999;
+    /*height: 5px;*/
+    border: 5px #999999 inset;
+}
+.courses ul #ctgry2 hr{
+    margin-left: 3%;
+    width: 30%;
+    margin-right: 10%;
+    background-color: #999999;
+    /*height: 5px;*/
+    border: 5px #999999 inset;
+}
+.footer{
+    margin-bottom: 0%;
+    bottom: 0;
+    background-image: url(http://www.chocoangel.in/images/img/NYCastings-BG-Light.jpg);
+    height: auto;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    padding-top: 5%;
+}
+.leftFooter, .rightFooter .midFooter{
+    padding-bottom: 10%;
+}
+.leftFooter img{
+    height: 100px;
+    width: 100px;
+    border-radius: 30%;
+    padding-bottom: 2%;
+}
+.leftFooter h1{
+    color: white;
+    font-family: vivaldi;
+}
+.leftFooter p{
+    color: white;
+    font-family: brush script;
+}
+.midFooter h2{
+    color: white;
+    font-family: vivaldi;
+    margin-bottom: 2%;
+}
+
+.midFooter img{
+    padding-bottom: 5%;
+}
+.midFooter span{
+    color: white;
+}
+.midFooter #fimg{
+    margin-top: 2%;
+}
+.rightFooter h2{
+    color: white;
+    font-family: vivaldi;
+    margin-bottom: 2%;
+}
+.rightFooter .social{
+    margin-top: 5%;
+    padding-top: 5%;
+}
+.rightFooter img{
+    border: 2px solid black;
+    border-radius: 30%;
+    margin-left: 2%;
+}
+.rightFooter a{
+    text-decoration: none;
+}
+.rightFooter img:hover{
+    border: 2px solid white;
+    border-radius: 30%;
+}
+.footer .copyright{
+    width: 100%;
+    bottom: 0;
+    margin-bottom: 0;
+    background: black;
+    height: 100px;
+}
+.footer .copyright p{
+    text-align: center;
+    color: white;
+}
+.footer .copyright #copyright{
+    padding-top: 1%;
+    padding-bottom: 0;
+}
+.about_us_main_content{
+      margin-bottom: 0%;
+    bottom: 0;
+    background-image: url(https://cjlogistique.ch/wp-content/uploads/2014/10/background.jpg);
+    height: 1080px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    padding-top: 5%;
+}
+.about_us{
+    margin-left: 0;
+    margin-right: 0;
+    
+}
+.about_us h1{
+    text-align: center;
+    font-family: vivaldi;
+    margin-top: 2%;
+    font-weight: bold;
+}
+.about_us hr{
+    margin: 2% 45% 2% 45%;
+    height: 3px;
+    width: 10%;
+    background-color: brown;
+}
+.about_us p{
+    line-height: 2em;
+    text-align: justify;
+    padding-bottom: 5%;
+}
+.about_us #imp{
+    color: brown;
+    font-family: script mt bold;
+    font-size: 35px;
+}
+.contact_us{
+     margin-bottom: 0%;
+    bottom: 0;
+    /*background-image:url(https://wallpapertag.com/wallpaper/middle/4/8/3/347923-download-blurred-background-1920x1440.jpg);*/
+    background-image: url(http://kb4images.com/images/blur-wallpaper/36958629-blur-wallpaper.jpg);
+    height: auto;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-left: 0;
+    margin-right: 0;
+}
+.contact_us .sir{
+  margin-left: 4%;
+  margin-right: 4%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  box-shadow: 0 4px 10px 4px rgba(19, 35, 47, 0.3);
+  transition: .5s ease;
+}
+
+.contact_us .add{
+  margin-left: 4%;
+  margin-right: 4%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  box-shadow: 0 4px 10px 4px rgba(19, 35, 47, 0.3);
+  transition: .5s ease;
+}
+.contact_us .add:hover,.contact_us .sir:hover{
+    box-shadow: 0px 0px 40px 16px rgba(18,18,18,1.00);
+}
+
+.contact_us h1{
+    text-align: center;
+    font-family: vivaldi;
+    color: white;
+    font-weight: bold;
+}
+.contact_us hr{
+    margin: 2% 45% 2% 45%;
+    height: 3px;
+    width: 10%;
+    background-color: brown;
+}
+.contact_us img{
+    height: 300px;
+    align-items: center;
+    width: 260px;
+    border: 2px brown inset;
+    border-radius: 5%;
+    /*margin-left: 40%;*/
+}
+.contact_us h2{
+     font-family: vivaldi;
+    color: white;
+    font-weight: bold;
+}
+.contact_us p{
+    line-height: 5px;
+    color: white;
+}
+.contact_us .address h2{
+    font-family: vivaldi;
+    color: white;
+    font-weight: bold;
+}
+.contact_us .address p{
+    padding-top: 2%;
+    line-height: 3em;
+    color: white;
+}
+.contact_us .address p span{
+   font-weight: bold;
+}
+.adminLogin{
+     margin-bottom: 0%;
+    bottom: 0;
+    background-image:url(https://wallpapertag.com/wallpaper/middle/4/8/3/347923-download-blurred-background-1920x1440.jpg);
+    /*background-image: url(http://kb4images.com/images/blur-wallpaper/36958629-blur-wallpaper.jpg);*/
+    height:auto;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-left: 0;
+    margin-right: 0;
+    
+}
+.adminLogin h1{
+    text-align: center;
+    font-family: vivaldi;
+    color: white;
+    font-weight: bold;
+}
+/*.adminLogin hr{
+    margin: 2% 45% 2% 45%;
+    height: 3px;
+    width: 10%;
+    background-color: brown;
+}*/
+.adminLogin .login{
+    height: 300px;
+    border-radius: 4px;
+  box-shadow: 0 4px 10px 4px rgba(19, 35, 47, 0.3);
+  transition: .5s ease;
+}
+.adminLogin .login:hover{
+    box-shadow: 0px 0px 40px 16px rgba(18,18,18,1.00);
+}
+.adminLogin .welcome_container{
+    height: auto;
+    padding-bottom: 2%;
+    border-radius: 4px;
+  box-shadow: 0 4px 10px 4px rgba(19, 35, 47, 0.3);
+  transition: .5s ease;
+}
+.adminLogin .welcome_container h1{
+    text-align: center;
+    margin-left: 20%;
+}
+.welcome_container .subpannel{
+    height: 100px;
+   margin-top: 1%;
+    border-radius: 4px;
+  box-shadow: 0 4px 10px 4px rgba(19, 35, 47, 0.3);
+  transition: .5s ease;    
+}
+.welcome_container a, .welcome_container a:hover{
+    text-decoration: none;
+}
+.launchCourse h2{
+    text-align: center;
+    font-family: vivaldi;
+    color: white;
+    font-weight: bold;
+}
+
+
+.vertical-menu {
+    width: 200px; /* Set a width if you like */
+    border-radius: 4px;
+  box-shadow: 0 4px 10px 4px rgba(19, 35, 47, 0.3);
+}
+
+.vertical-menu a {
+    background-color: none; /* Grey background color */
+    color: white; /* Black text color */
+    display: block; /* Make the links appear below each other */
+    padding: 12px; /* Add some padding */
+    text-decoration: none; /* Remove underline from links */
+    
+}
+
+.vertical-menu a:hover {
+    background-color: #ccc; /* Dark grey background on mouse-over */
+}
+
+.vertical-menu a.active {
+    background-color:  #ca150a; /* Add a green color to the "active/current" link */
+    color: white;
+}
+.launchCourse textarea{
+    height: 50px;
+    width: 50%;
+}
